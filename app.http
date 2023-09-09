@@ -1,0 +1,3 @@
+GET http://localhost:3010/movies/
+### 
+DELETE http://localhost:3010/movies/5/
